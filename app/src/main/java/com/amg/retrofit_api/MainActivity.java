@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         println("this is the change for the 2nd commit");
-        this is the change for the 3rd commit
+        println("this is the change for the 3nd commit");
     }
 }
