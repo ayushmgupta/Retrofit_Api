@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         println("local changes");
         println("Experimental commit");
         println("new branch commit");
-
         println("change 1");
+        println("message from friend");
     }
 }
